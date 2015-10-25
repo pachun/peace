@@ -2,6 +2,7 @@
 # Peace
 
 [![Build Status](https://travis-ci.org/pachun/peace.svg?branch=master)](https://travis-ci.org/pachun/peace)
+[![Code Climate](https://codeclimate.com/github/pachun/peace/badges/gpa.svg)](https://codeclimate.com/github/pachun/peace)
 
 ## Installation
 
