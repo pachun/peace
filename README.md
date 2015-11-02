@@ -3,6 +3,7 @@
 
 [![Build Status](https://travis-ci.org/pachun/peace.svg?branch=master)](https://travis-ci.org/pachun/peace)
 [![Code Climate](https://codeclimate.com/github/pachun/peace/badges/gpa.svg)](https://codeclimate.com/github/pachun/peace)
+[![Coverage Status](https://coveralls.io/repos/pachun/peace/badge.svg?branch=master&service=github)](https://coveralls.io/github/pachun/peace?branch=master)
 
 ## Installation
 
